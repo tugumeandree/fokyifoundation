@@ -23,8 +23,9 @@
   .intro-bg{
   margin-top: 7% !important;
   }
-  h1,h2,h3,h4,h5,h5,p{
+  h1{
   font-family: Montserrat !important;
+  color: #8AB198 !important;
   }
   #header-novaid, #indica-novaid, #depo1-novaid{
   /* margin: 10% 0; */
